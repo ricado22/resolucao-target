@@ -1,4 +1,4 @@
-#Resolução de exercício proposto pela Target
+#Resolução de exercício proposto pela Target (Ribeirão Preto)
 
 1. Programa para verificar se um número pertence à sequência de Fibonacci
 
